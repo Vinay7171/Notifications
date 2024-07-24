@@ -1,0 +1,1 @@
+git restore --staged file name == this command used to unstaged the file 
